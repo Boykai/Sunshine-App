@@ -20,7 +20,8 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    // TODO (1) Declare a TextView variable called mToysListTextView
+    // COMPLETED (1) Declare a TextView variable called mToysListTextView
+    TextView myToysListTextView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
